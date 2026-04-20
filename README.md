@@ -2,7 +2,6 @@
 
 ## Overview
 This project is an Agentic AI system that allows users to upload research papers (PDFs) and ask questions from them.
-
 It uses Retrieval-Augmented Generation (RAG) with a LangGraph-based agent to ensure accurate, grounded answers.
 
 ---
@@ -37,6 +36,11 @@ It uses Retrieval-Augmented Generation (RAG) with a LangGraph-based agent to ens
 7. Evaluation ensures faithfulness
 
 ---
+
+## GUI Interface
+Screenshot 1.png
+Screenshot 2.png
+
 
 ## Installation
 
